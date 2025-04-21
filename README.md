@@ -879,7 +879,7 @@ $ chmod 755 forin1.sh
 
 ## OUTPUT
 Welcome Ram Please enjoy your visit Welcome Rahim Please enjoy your visit Special testing account gganesh, Do not forget to logout when you're done Sorry, you are not allowed here cat forinfile.sh 
-```
+```bash
 #!/bin/bash
 # reading values from a file
 file="cities"
@@ -902,7 +902,7 @@ Khammam
 
 
 cat forctype.sh 
-```
+```bash
 #!/bin/bash
 # testing the C-style for loop
 for (( i=1; i <= 5; i++ ))
@@ -915,7 +915,7 @@ $ ./forctype.sh
 ## OUTPUT
 
 cat forctype1.sh 
-```
+```bash
 #!/bin/bash
 # multiple variables
 for (( a=1, b=5; a <= 5; a++, b-- ))
